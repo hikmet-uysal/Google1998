@@ -1,0 +1,36 @@
+
+
+
+.searchbar{
+    padding-left: 550px;
+    margin-right: 10%;
+    margin-top: 0%;
+    background-color: rgb(235, 233, 233);
+    width: 1090px;
+    height: 65px;
+  
+    
+}
+.card{
+    height: 90px;
+margin-left: 190px;
+    float: left;
+    padding: 38px;
+    background-color: rgb(78, 199, 230);
+    margin-right:15px;
+
+}
+.img-center{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 0px;
+      }
+      .p{
+
+        margin-left: 550px;
+        height: 5px;
+      }
+.clear{
+    clear: left;
+}
